@@ -1,5 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1266b62d-8391-47cb-bb3e-e87b7a6fd8e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/api/GameVersionsApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/api/MappablesApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/api/MappingTypesApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/api/MappingsApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/api/PackageApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/api/ReleasesApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/api/SystemApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/api/VersionedMappablesApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/ApiCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/ApiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/ApiException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/ApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/GzipRequestInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/JSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/ProgressRequestBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/ProgressResponseBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/ServerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/ServerVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/StringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/auth/ApiKeyAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/auth/Authentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/auth/HttpBasicAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/auth/HttpBearerAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/auth/OAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/auth/OAuthFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/auth/OAuthOkHttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/invoker/auth/RetryingOAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/DetailedMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/Distribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/GameVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/Mappable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/MappableType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/Mapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/MappingType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/PageDetailedMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/PageGameVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/PageMappable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/PageMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/PageMappingType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/PageRelease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/PageString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/PageVersionedMappable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/Pageable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/Release.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/SimpleVersionedMappable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/VersionedMappable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/src/generated/java/org/modmappings/webapi/model/Visibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/webapi/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/src/main/java/org/modmappings/list/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/src/test/java/org/modmappings/list/LinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/src/main/java/org/modmappings/utilities/JoinUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/src/main/java/org/modmappings/utilities/SplitUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/src/main/java/org/modmappings/utilities/StringUtils.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/webapi">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Valeyard" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Valeyard" type="f1a62948:ProjectNode" />
+                <item name="webapi" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Valeyard" type="f1a62948:ProjectNode" />
+                <item name="webapi" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Valeyard" type="f1a62948:ProjectNode" />
+                <item name="webapi" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="openapi tools" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -7,11 +125,121 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1m0md7tHvtZXRvqQsvs41Id8msu" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="G:/Additional Programs/Visual VM/bin/visualvm.exe" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Gradle.Valeyard:webapi [copyApiSource]">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Valeyard:webapi [copyApiSource]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/webapi" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="copyApiSource" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Valeyard:webapi [openApiGenerate]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/webapi" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="openApiGenerate" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Valeyard:webapi [copyApiSource]" />
+        <item itemvalue="Gradle.Valeyard:webapi [openApiGenerate]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1266b62d-8391-47cb-bb3e-e87b7a6fd8e3" name="Default Changelist" comment="" />
+      <created>1608638969239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608638969239</updated>
+      <workItem from="1608638972314" duration="4127000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial project structure.">
+      <created>1608639124800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608639124801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial project structure." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial project structure." />
   </component>
 </project>
