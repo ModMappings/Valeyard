@@ -8,6 +8,8 @@ plugins {
 
 dependencies {
     implementation project(':webapi')
+    implementation 'com.nimbusds:nimbus-jose-jwt:9.0'
+    implementation 'com.nimbusds:oauth2-oidc-sdk:8.29'
 }
 
 application {
